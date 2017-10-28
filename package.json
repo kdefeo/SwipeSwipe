@@ -1,0 +1,19 @@
+{
+  "name": "swipeswipe",
+  "version": "1.0.0",
+  "description": "An easy way to match students with STEM careers and higher educational institutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmam/SwipeSwipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmam/SwipeSwipe/issues"
+  },
+  "homepage": "https://github.com/shmam/SwipeSwipe#readme"
+}
